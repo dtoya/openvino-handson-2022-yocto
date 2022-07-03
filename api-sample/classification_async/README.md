@@ -1,6 +1,6 @@
 ```
 $ cd ~/handson/api-sample/classification_async
-$ . setup_host.sh
+$ ./setup_host.sh
 ```
 
 ```
