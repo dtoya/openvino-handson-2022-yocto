@@ -10,9 +10,7 @@ $ export TIP=192.168.2.2
 
 2. Open a terminal and connect to a target system.
 ```
-$ export TUSER=root
-$ export TIP=192.168.2.2
-$ ssh -X $TUSER@$TIP
+$ ssh -X root@192.168.2.2
 ```
 
 ```bash
