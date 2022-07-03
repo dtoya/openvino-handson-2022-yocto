@@ -1,4 +1,4 @@
-cd ~/handson/open_model_zoo
+cd ~/handson
 . venv/bin/activate
 pip download -d pip -r open_model_zoo/demos/requirements.txt
 pip download -d pip open_model_zoo/demos/common/python/
