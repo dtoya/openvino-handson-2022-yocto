@@ -24,3 +24,20 @@ $ sh setup_host.sh
 $ sh setup_host_gpu.sh
 $ sh setup_host_devtool.sh
 ```
+
+```bash
+$ scp setup_target_*_target.sh $TUSER@$TIP:~/
+```
+```
+# cd ~/
+# sh setup_target_1_target.sh
+```
+
+```
+$ sh setup_target_2_host.sh
+```
+
+```
+# sh setup_target_3_host.sh
+```
+
