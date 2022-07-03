@@ -1,3 +1,2 @@
-ssh $TUSER@$TIP
-mkdir -p ~/handson/data; cd ~/handson
+mkdir -p ~/handson/data
 
