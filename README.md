@@ -35,6 +35,6 @@ $ sh setup_target_2_host.sh
 ```
 
 ```
-# sh setup_target_3_host.sh
+# sh setup_target_3_target.sh
 ```
 
