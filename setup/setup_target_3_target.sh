@@ -1,4 +1,4 @@
-ssh $TUSER@$TIP
+cd ~/handson
 python3 -m venv openvino
 . openvino/bin/activate
 pip install --no-index --find-links=./pip -U pip
