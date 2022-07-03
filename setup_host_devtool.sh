@@ -1,4 +1,4 @@
-mkdir ~/handson; mkdir ~/handson/data
+cd ~/handson; mkdir ~/handson/data
 sudo apt install python3-venv
 python3 -m venv ~/handson/openvino
 . ~/handson/openvino/bin/activate
