@@ -18,20 +18,20 @@ $ sudo apt install git
 $ git clone https://github.com/dtoya/openvino-handson-2022-yocto.git handson
 $ scp -r handson $TUSER@$TIP:~/
 $ cd handson/setup
-$ sh setup_host.sh
-$ sh setup_host_gpu.sh
-$ sh setup_host_devtool.sh
+$ ./setup_host.sh
+$ ./setup_host_gpu.sh
+$ ./setup_host_devtool.sh
 ```
 
 ```
 # cd ~/handson/setup
-# sh setup_target_1_target.sh
+# ./setup_target_1_target.sh
 ```
 
 ```
-$ sh setup_target_2_host.sh
+$ ./setup_target_2_host.sh
 ```
 
 ```
-# sh setup_target_3_target.sh
+# ./setup_target_3_target.sh
 ```
