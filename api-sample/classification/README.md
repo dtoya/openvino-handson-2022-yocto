@@ -1,7 +1,7 @@
 
 ```
 $ cd ~/handson/api-sample/classification
-$ . setup_host.sh
+$ ./setup_host.sh
 ```
 
 ```
